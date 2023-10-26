@@ -19,7 +19,8 @@ Please head out to the Reports in this repository for a detailed explanation of 
 
 
 
-![TJEG9655](https://github.com/RovanPereira/BMS/assets/122261946/90ee77eb-33b8-4879-adf6-f0af97efaa1e)
+![TJEG9655](https://github.com/RovanPereira/BMS--Battery-Management-System/assets/122261946/e4c10e59-3bce-4957-aa20-cd59cccffc64)
+
 
 
 
